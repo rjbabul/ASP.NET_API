@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Bzyy+7GYHflkBC+qnRS9Skmhp4o1ncRagmGPKdTnooI=",
+  "Hash": "+ypVNvMT+uT/7SAmvL3dXGir1p3AIT0K74P9Io/fedE=",
   "Source": "ApiTest",
   "BasePath": "_content/ApiTest",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\babul\\source\\repos\\ApiTest\\ApiTest\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ApiTest.styles.css",
-      "SourceId": "ApiTest",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\babul\\source\\repos\\ApiTest\\ApiTest\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/ApiTest",
-      "RelativePath": "ApiTest.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\babul\\source\\repos\\ApiTest\\ApiTest\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ApiTest.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\babul\\source\\repos\\ApiTest\\ApiTest\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ApiTest.bundle.scp.css",
-      "SourceId": "ApiTest",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\babul\\source\\repos\\ApiTest\\ApiTest\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/ApiTest",
-      "RelativePath": "ApiTest.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\babul\\source\\repos\\ApiTest\\ApiTest\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ApiTest.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\babul\\source\\repos\\ApiTest\\ApiTest\\wwwroot\\css\\site.css",
       "SourceId": "ApiTest",

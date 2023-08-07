@@ -67,8 +67,6 @@ C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\ApiTest.AssemblyInf
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\ApiTest.AssemblyInfo.cs
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\ApiTest.csproj.CoreCompileInputs.cache
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\ApiTest.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\ApiTest.RazorAssemblyInfo.cache
-C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\ApiTest.RazorAssemblyInfo.cs
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\staticwebassets\msbuild.ApiTest.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiTest.props
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiTest.props
@@ -76,9 +74,7 @@ C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\staticwebassets\msb
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\scopedcss\bundle\ApiTest.styles.css
-C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\scopedcss\projectbundle\ApiTest.bundle.scp.css
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\ApiTest.csproj.CopyComplete
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\ApiTest.dll
 C:\Users\babul\source\repos\ApiTest\ApiTest\obj\Debug\net6.0\refint\ApiTest.dll
