@@ -62,20 +62,47 @@ namespace ApiTest.Repository
         }
 
 
-       /* public async Task<List<CustomerModel>?> Updatecustomer(int id, CustomerModel request)
+        public async Task<CustomerModel> Update(int id, CustomerModel request)
         {
             var customer = await _db.Customers.FindAsync(id);
+           
             if (customer is null)
                 return null;
-
-            customer.FirstName = request.FirstName;
-            customer.LastName = request.LastName;
-            customer.Name = request.Name;
-            customer.Place = request.Place;
+            if (request.Name != null)
+            {
+                customer.Name = request.Name;
+            }
+            if(request.Country != null)
+            {
+                customer.Country = request.Country;
+            }
+            if (request.Phone != null) 
+            {
+                customer.Phone = request.Phone;
+            }
+            if(request.City != null)
+            {
+                customer.City = request.City;
+            }
+            if(request.Region != null)
+            {
+                customer.Region = request.Region;
+            }
+            if (request.PostalCode != null)
+            {
+                customer.PostalCode = request.PostalCode;
+            }
+           
+            _db.Update(customer);
 
             await _db.SaveChangesAsync();
 
-            return await _db.Customers.ToListAsync();
-        }*/
+            var acustomer = await _db.Customers.FindAsync(id);
+            if (acustomer is null)
+                return null;
+
+          
+            return acustomer;
+        }
     }
 }
